@@ -1,2 +1,2 @@
 # gitcourse_livedemo
-Live demo for git course
+This is a live demo for git course.
